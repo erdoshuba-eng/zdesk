@@ -1,0 +1,10 @@
+[project]
+name = "zdesk"
+version = "1.0.0"
+description = ""
+dependencies = [
+    "pyqt6",
+]
+
+[tool.pyright]
+venvPath = "./venv"
